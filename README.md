@@ -1,28 +1,41 @@
-# [Меню](#menu)
-- [Привет!](#welcome)
-- [Моя статистика](#stastics)
+<table>
+  <tr>
+    <td width="120px" align="center">
+      <img src="https://avatars.githubusercontent.com/u/113464840?v=4" width="100" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h3>Константин</h3>
+      <p>Привет! Я студент МГТУ СТАНКИН, очень люблю создавать мобильные приложения и необычные решения, всегда узнаю и пробую что-то новое</p>
+    </td>
+  </tr>
+</table>
 
-## [Привет!](#welcome)
+---
 
+### 🛠 Стек
 
-## [Моя статистика](#stastics)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/T--FLEX-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram%20Bot-34AADF?style=flat-square&logo=telegram&logoColor=white" />
 
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<!-- СТИЛЬНЫЙ БЛОК TEХНОЛОГИИ -->
+<div style="display: flex; align-items: center; gap: 10px; padding: 6px 12px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 12px; width: fit-content; margin: 5px 0;">
+  <img src="https://avatars.mds.yandex.net/i?id=6acf5ca6180af51d56cc01156ae0ef30d57d56e6-12651879-images-thumbs&n=13" width="20" height="20" alt="Python logo" />
+  <span style="color: white;">Python</span>
 </div>
+
+<div style="display: flex; align-items: center; gap: 10px; padding: 6px 12px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 12px; width: fit-content; margin: 5px 0;">
+  <img src="https://avatars.mds.yandex.net/i?id=6acf5ca6180af51d56cc01156ae0ef30d57d56e6-12651879-images-thumbs&n=13" width="20" height="20" alt="Python logo" />
+  <span style="color: white;">Python</span>
+</div>
+
+### Моя статистика
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=67Konstantin&theme=git-dark&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=67Konstantin&layout=compact&theme=vision-friendly-dark&hide=html,cmake,c,kotlin,swift,objective-c)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📬 Контакты
+
+📧 [email@example.com](mailto:email@example.com)  
+💬 [t.me/cheburashka67](https://t.me/cheburashka67)

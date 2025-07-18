@@ -31,11 +31,12 @@
 </div>
 
 ### Моя статистика
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=67Konstantin&theme=git-dark&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=67Konstantin&layout=compact&theme=vision-friendly-dark&hide=html,cmake,c,kotlin,swift,objective-c)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=67Konstantin&theme=git-dark&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=245)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=67Konstantin&count=4&theme=vision-friendly-dark&hide=html,cmake,c,kotlin,swift,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📬 Контакты
 
-📧 [email@example.com](mailto:email@example.com)  
+📧 [pilmeshok@gmail.com](mailto:pilmeshok@gmail.com)  
 💬 [t.me/cheburashka67](https://t.me/cheburashka67)

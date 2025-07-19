@@ -1,34 +1,58 @@
 <table>
   <tr>
     <td width="120px" align="center">
-      <img src="https://avatars.githubusercontent.com/u/113464840?v=4" width="100" style="border-radius: 50%;" />
+      <kbd>
+        <img src="https://avatars.githubusercontent.com/u/113464840?v=4" width="100" />
+      </kbd>
     </td>
     <td>
       <h3>Константин</h3>
-      <p>Привет! Я студент МГТУ СТАНКИН, очень люблю создавать мобильные приложения и необычные решения, всегда узнаю и пробую что-то новое</p>
+      <p>Привет! Я студент МГТУ СТАНКИН, очень люблю создавать мобильные приложения и необычные решения, всегда узнаю и пробую что-то новое. Также осваиваю golang в настоящее время</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Стек
+## 🧰 Мой стек
+<!-- ЯЗЫКИ -->
+#### 🧠 Языки
+<p>
+  <img src="https://img.shields.io/badge/Dart-04599C.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-365dbf.svg?style=for-the-badge&logo=C%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-9F1A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/T--FLEX-2E8B57?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram%20Bot-34AADF?style=flat-square&logo=telegram&logoColor=white" />
+<!-- ФРЕЙМВОРКИ -->
+#### 💡 Фреймворки и SDK
+<p>
+  <img src="https://img.shields.io/badge/Flutter-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&style=for-the-badge" />
+</p>
 
-<!-- СТИЛЬНЫЙ БЛОК TEХНОЛОГИИ -->
-<div style="display: flex; align-items: center; gap: 10px; padding: 6px 12px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 12px; width: fit-content; margin: 5px 0;">
-  <img src="https://avatars.mds.yandex.net/i?id=6acf5ca6180af51d56cc01156ae0ef30d57d56e6-12651879-images-thumbs&n=13" width="20" height="20" alt="Python logo" />
-  <span style="color: white;">Python</span>
-</div>
+<!-- БАЗЫ ДАННЫХ -->
+#### 💾 Базы данных
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white" />
+</p>
 
-<div style="display: flex; align-items: center; gap: 10px; padding: 6px 12px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 12px; width: fit-content; margin: 5px 0;">
-  <img src="https://avatars.mds.yandex.net/i?id=6acf5ca6180af51d56cc01156ae0ef30d57d56e6-12651879-images-thumbs&n=13" width="20" height="20" alt="Python logo" />
-  <span style="color: white;">Python</span>
-</div>
+<!-- ИНСТРУМЕНТЫ -->
+#### ⚙️ Инструменты
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge" />
+</p>
+
+<!-- ПЛАТФОРМЫ -->
+#### 💻 Платформы
+<p>
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&style=for-the-badge&logoColor=white" />
+</p>
+
 
 ### Моя статистика
 

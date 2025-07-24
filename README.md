@@ -26,7 +26,9 @@
 
 #### 💡 Фреймворки и SDK
 <p>
-  <img src="https://img.shields.io/badge/Flutter-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
+  <a href="#flutter-project">
+    <img src="https://img.shields.io/badge/Flutter-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&style=for-the-badge" />
 </p>
 
@@ -53,8 +55,9 @@
 
 <details open>
 <summary><h1><strong>Моя статистика</strong></h1></summary>
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=67Konstantin&theme=git-dark&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=245)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=67Konstantin&theme=git-dark&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=245)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=67Konstantin&count=4&theme=vision-friendly-dark&hide=html,cmake,c,kotlin,swift,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 ---
 </details>
@@ -63,7 +66,7 @@
 <summary><h1><strong>🚀 Портфолио и проекты</strong></h1></summary>
 
 <!-- 🔹 Проект 3 -->
-<h4>📱 Flutter-приложение чё то там</h4>
+<h4 id="flutter-project">>📱 Flutter-приложение чё то там</h4>
 <p>
 🔧 <strong>Стек:</strong> Flutter, Firebase, Dart<br>
 📄 <strong>Описание:</strong> Приложение для ..., с уведомлениями, сохранением в облако и адаптацией под Android/iOS.<br>

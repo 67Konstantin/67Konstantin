@@ -6,61 +6,62 @@
       </kbd>
     </td>
     <td>
-      <h3>Константин</h3>
-      <p>Привет! Я студент МГТУ СТАНКИН, очень люблю создавать мобильные приложения и необычные решения, всегда узнаю и пробую что-то новое. Также осваиваю golang в настоящее время</p>
+      <h3>Константин Дробязкин</h3>
+      <p>Flutter-разработчик с 5-летним опытом в мобильной разработке.
+        Студент 2 курса направления «Прикладная информатика» МГТУ «Станкин».
+        Hard-навыки - Flutter, Java, Docker, Figma.
+        Soft-скиллы - Ответствуенность, инициативность, общительность.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
-<details open>
-<summary><h1><strong>🧰 Мой стек</strong></h1></summary>
 
-#### 🧠 Языки
-<p>
-  <img src="https://img.shields.io/badge/Dart-04599C.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-365dbf.svg?style=for-the-badge&logo=C%2B%2B" />
-  <img src="https://img.shields.io/badge/Java-9F1A00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+#### 👨‍💻 Основной стек
+<div align="center">
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" title="Dart"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
 
-#### 💡 Фреймворки и SDK
-<p>
-  <a href="#flutter-project">
-    <img src="https://img.shields.io/badge/Flutter-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&style=for-the-badge" />
-</p>
+</div>
 
-#### 💾 Базы данных
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white" />
-</p>
+#### 👨‍💻 Также знаю
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" alt="SSH" title="SSH"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" alt="iOS" title="iOS"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" alt="Ant Design" title="Ant Design"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="Qt" title="Qt"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
+</div>
 
-#### ⚙️ Инструменты
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge" />
-</p>
 
-#### 💻 Платформы
-<p>
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&style=for-the-badge&logoColor=white" />
-</p>
-
-</details>
-
-<details open>
-<summary><h1><strong>Моя статистика</strong></h1></summary>
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=67Konstantin&theme=git-dark&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=245)](https://git.io/streak-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=67Konstantin&count=4&theme=vision-friendly-dark&hide=html,cmake,c,kotlin,swift,objective-c)](https://github.com/anuraghazra/github-readme-stats)
----
-</details>
 
 <details open>
 <summary><h1><strong>🚀 Портфолио и проекты</strong></h1></summary>

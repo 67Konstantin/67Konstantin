@@ -17,10 +17,9 @@
 </table>
 
 
-## 📬 Контакты
+### Контакты
 <div align="center">
 
-  <div align="center">
   <a href="mailto:pilmeshok@gmail.com" title="Написать на почту">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -32,6 +31,9 @@
   </a>
 </div>
 
+---
+
+### Мой стек
 
 #### 👨‍💻 Основной стек
 <div align="center">
